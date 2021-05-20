@@ -16,9 +16,8 @@ end users a quick and easy way to reset their own passwords.
 
 This Recipe was tested on the following platforms: 
   
- * Debian 8 (systemd) on armhf architecture.  
- * Ubuntu Server 16.04 (systemd) on amd64 architecture.  
- * Gentoo (openRC) on amd64 architecture.
+ * Debian 10 (systemd) on amd64 architecture.  
+ * Ubuntu Server 20.04 (systemd) on amd64 architecture.  
 
 ### Assumptions
 
